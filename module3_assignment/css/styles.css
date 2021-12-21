@@ -1,0 +1,60 @@
+body{
+    background-color:#7dba36;
+    
+    font-family: 'Oxygen', sans-serif;
+    font-size: 16px;
+}
+#header-nav{
+    background-color:white;
+    border-radius:0;
+    border:0;
+}
+#logo_img{
+    width: 100px;
+    height: 100px;
+    margin: 3px;
+    margin-left: 0;
+    
+}
+#brand_name{
+    font-size: 35px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color:#7dba36;
+    text-decoration: none;
+}
+#page_header{
+    font-size: 30px;
+    color:white;
+    font-weight: bold;
+   padding-top: 15px;
+   padding-bottom: 15px;
+   margin-bottom: 5px;
+}
+#chicken, #beef, #sushi{
+    font-size: 23px;
+    color: black;
+    background-color:#deeecd  ;
+    padding: 3px;
+    
+} 
+#chicken_sec, #beef_sec, #sushi_sec{
+    color: black;
+    padding: 10px;
+    height: 800px;
+    margin-bottom: 25px;
+    background-color:#deeecd ;
+    
+}
+#foot_note{
+    background-color: white;
+    color: #7dba36;
+    font-weight: bold;
+    padding-top: 5px;
+}
+
+#footlogo_img{
+    width: 25px;
+    height: 25px;
+   
+}

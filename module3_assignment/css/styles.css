@@ -58,3 +58,14 @@ body{
     height: 25px;
    
 }
+#menu_list{
+    list-style: none;
+    
+}
+#menu_contain{
+    border-style: none;
+}
+#menu1, #menu2, #menu3{
+    text-decoration: none;
+    color: black;
+}

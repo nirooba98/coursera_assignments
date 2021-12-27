@@ -10,9 +10,9 @@
     
       
       if (initial === 'j') {
-        console.log(thanks.wordbye  + " " + names[i]);
+        thanks.wordbye(names[i]);
       } else {
-        console.log(welcome.wordHello + " " + names[i]);
+        welcome.wordHello(names[i]);
       }
     }
     

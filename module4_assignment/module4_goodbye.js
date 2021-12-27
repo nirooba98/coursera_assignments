@@ -1,6 +1,11 @@
 (function(window){
         
     var thanks = {};
-   thanks.wordbye = "Good bye";
+    var speakbye = "Good Bye";
+    thanks.wordbye = function (name){
+     console.log(speakbye + " " + name);
+
+    }
+   
     window.thanks = thanks;
 })(window);
